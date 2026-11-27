@@ -1,0 +1,401 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R] /Count 8 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 738 >>
+stream
+q
+BT /F2 12 Tf 1 0 0 1 262.36 721.89 Tm (FATEC OSASCO) Tj ET
+BT /F1 11 Tf 1 0 0 1 200.62 696.89 Tm (Curso: Banco de Dados N\343o Relacional) Tj ET
+BT /F1 10.5 Tf 1 0 0 1 153.58 676.89 Tm (Turma: DSM - Desenvolvimento de Software Multiplataforma) Tj ET
+BT /F2 12 Tf 1 0 0 1 230.02 516.89 Tm (CAIO DOS SANTOS CANHETE) Tj ET
+BT /F2 12 Tf 1 0 0 1 174.16 461.89 Tm (PLATAFORMA DE RECICLAGEM E COLETA SELETIVA) Tj ET
+BT /F2 11 Tf 1 0 0 1 173.67 434.89 Tm (Proposta de arquitetura NoSQL, Data Warehouse,) Tj ET
+BT /F2 11 Tf 1 0 0 1 216.79 415.89 Tm (minera\347\343o de dados e seguran\347a) Tj ET
+BT /F1 11 Tf 1 0 0 1 281.47 131.89 Tm (Osasco) Tj ET
+BT /F1 11 Tf 1 0 0 1 286.86 111.89 Tm (2026) Tj ET
+BT /F1 8 Tf 1 0 0 1 514.28 24 Tm (1) Tj ET
+Q
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1146 >>
+stream
+q
+BT /F2 12 Tf 1 0 0 1 230.02 746.89 Tm (CAIO DOS SANTOS CANHETE) Tj ET
+BT /F2 11 Tf 1 0 0 1 181.75 651.89 Tm (PLATAFORMA DE RECICLAGEM E COLETA SELETIVA:) Tj ET
+BT /F2 11 Tf 1 0 0 1 173.67 631.89 Tm (PROPOSTA DE ARQUITETURA NOSQL, DATA WAREHOUSE,) Tj ET
+BT /F2 11 Tf 1 0 0 1 216.79 611.89 Tm (MINERA\307\303O DE DADOS E SEGURAN\307A) Tj ET
+BT /F1 10 Tf 1 0 0 1 305.00 471.89 Tm (Relat\363rio t\351cnico apresentado \340 disciplina Banco de) Tj ET
+BT /F1 10 Tf 1 0 0 1 305.00 457.89 Tm (Dados N\343o Relacional, do curso de Desenvolvimento de) Tj ET
+BT /F1 10 Tf 1 0 0 1 305.00 443.89 Tm (Software Multiplataforma \(DSM\) da Fatec Osasco, como) Tj ET
+BT /F1 10 Tf 1 0 0 1 305.00 429.89 Tm (atividade acad\352mica sobre modelagem NoSQL, sistemas) Tj ET
+BT /F1 10 Tf 1 0 0 1 305.00 415.89 Tm (distribu\355dos, an\341lise de dados e prote\347\343o de dados) Tj ET
+BT /F1 10 Tf 1 0 0 1 305.00 401.89 Tm (pessoais.) Tj ET
+BT /F1 10 Tf 1 0 0 1 305.00 341.89 Tm (Docente: Prof. Vander Ribeiro Elme) Tj ET
+BT /F1 11 Tf 1 0 0 1 281.47 131.89 Tm (Osasco) Tj ET
+BT /F1 11 Tf 1 0 0 1 286.86 111.89 Tm (2026) Tj ET
+BT /F1 8 Tf 1 0 0 1 514.28 24 Tm (2) Tj ET
+Q
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4794 >>
+stream
+q
+BT /F2 12 Tf 1 0 0 1 85.00 771.89 Tm (RESUMO) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 751.89 Tm (Este relat\363rio prop\365e uma arquitetura de dados para uma Plataforma de Reciclagem e Coleta) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 737.89 Tm (Seletiva, conforme o tema do print. O sistema integra materiais com atributos variados, pontos) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 723.89 Tm (e solicita\347\365es de coleta, localiza\347\343o dos coletores, geradores, cooperativas e destinos. A) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 709.89 Tm (proposta combina banco de documentos para registros operacionais flex\355veis, banco de grafos) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 695.89 Tm (para rela\347\365es e descoberta de padr\365es e banco distribu\355do de colunas para eventos de coleta em) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 681.89 Tm (grande volume. S\343o apresentados modelo JSON, esquema dimensional em estrela e fluxo ETL para) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 667.89 Tm (hist\363rico de coletas; regras de associa\347\343o para materiais descartados juntos; agrupamento de) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 653.89 Tm (regi\365es com perfis semelhantes; medidas de seguran\347a; e procedimento de atendimento \340 LGPD,) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 639.89 Tm (preservando estat\355sticas somente quando efetivamente n\343o identific\341veis.) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 620.89 Tm (Palavras-chave: NoSQL; coleta seletiva; reciclagem; Data Warehouse; minera\347\343o de dados; LGPD.) Tj ET
+BT /F2 12 Tf 1 0 0 1 85.00 593.89 Tm (SUM\301RIO) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 93.00 573.89 Tm (1 Introdu\347\343o) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 93.00 558.89 Tm (2 Requisitos e interpreta\347\343o do tema) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 93.00 543.89 Tm (3 Sele\347\343o dos bancos NoSQL) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 93.00 528.89 Tm (4 Modelo operacional e exemplo JSON) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 93.00 513.89 Tm (5 Escalabilidade e Teorema CAP) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 93.00 498.89 Tm (6 Data Warehouse e ETL) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 93.00 483.89 Tm (7 Minera\347\343o de dados) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 93.00 468.89 Tm (8 Seguran\347a e hardening) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 93.00 453.89 Tm (9 LGPD e elimina\347\343o) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 93.00 438.89 Tm (10 Conclus\343o) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 93.00 423.89 Tm (Refer\352ncias) Tj ET
+BT /F2 12 Tf 1 0 0 1 85.00 400.89 Tm (1 INTRODU\307\303O) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 380.89 Tm (O tema indicado no print \351 uma plataforma para organizar reciclagem e coleta seletiva. A) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 366.89 Tm (aplica\347\343o re\372ne materiais e pontos de coleta com atributos variados, solicita\347\365es e) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 352.89 Tm (localiza\347\343o de coletores, rela\347\365es entre geradores, cooperativas, materiais e destinos. Os) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 338.89 Tm (resultados esperados incluem registrar coletas realizadas, identificar regi\365es com perfis) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 324.89 Tm (semelhantes de descarte e descobrir materiais frequentemente descartados juntos. A campanha) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 310.89 Tm (municipal de descarte de eletr\364nicos representa o cen\341rio de pico.) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 291.89 Tm (O enunciado pede justificar categorias NoSQL por cen\341rio, discutir escalabilidade e CAP,) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 277.89 Tm (modelar um Data Warehouse, propor minera\347\343o, quatro medidas de seguran\347a e atendimento ao) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 263.89 Tm (direito de elimina\347\343o. As etapas s\343o aplicadas ao dom\355nio do print: opera\347\365es de coleta) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 249.89 Tm (substituem vendas, e m\351tricas de coleta e destina\347\343o substituem m\351tricas comerciais. A entrega) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 235.89 Tm (deve conectar tecnologia e necessidade de neg\363cio, justificando por que cada modelo resolve o) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 221.89 Tm (problema [1].) Tj ET
+BT /F2 12 Tf 1 0 0 1 85.00 194.89 Tm (2 REQUISITOS E INTERPRETA\307\303O DO TEMA) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 174.89 Tm (\225 Dados heterog\352neos: Materiais recicl\341veis podem exigir atributos diferentes; solicita\347\365es) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 160.89 Tm (  precisam registrar localiza\347\343o, janela, status, itens, coletor, gerador e destino) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 146.89 Tm (  previsto.) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 129.89 Tm (\225 Pico operacional: Campanhas podem multiplicar pedidos e eventos; o sistema deve separar) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 115.89 Tm (  recebimento de solicita\347\365es do processamento anal\355tico.) Tj ET
+BT /F1 8 Tf 1 0 0 1 514.28 24 Tm (3) Tj ET
+Q
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 6002 >>
+stream
+q
+BT /F1 10 Tf 1 0 0 1 93.00 779.89 Tm (\225 An\341lise de rela\347\365es: A gest\343o precisa rastrear fluxos entre geradores, coletores,) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 765.89 Tm (  cooperativas e destinos, bem como coocorr\352ncia de materiais e semelhan\347as regionais.) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 748.89 Tm (Crit\351rios de sucesso: cadastro flex\355vel sem perder valida\347\343o; localiza\347\343o dispon\355vel apenas a) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 734.89 Tm (usu\341rios autorizados; rastreabilidade do fluxo; contabiliza\347\343o sem duplicar eventos; an\341lises) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 720.89 Tm (regionais que n\343o exponham endere\347os residenciais precisos.) Tj ET
+BT /F2 12 Tf 1 0 0 1 85.00 693.89 Tm (3 SELE\307\303O DOS BANCOS NOSQL) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 673.89 Tm (A arquitetura usa persist\352ncias especializadas pelos padr\365es de acesso. Bancos de documentos) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 659.89 Tm (suportam estruturas flex\355veis e dados aninhados; sua modelagem deve acompanhar os dados) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 645.89 Tm (acessados em conjunto [2]. Em bancos distribu\355dos de colunas, parti\347\343o e chave s\343o) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 631.89 Tm (fundamentais e as consultas devem ser planejadas [3]. Grafos representam n\363s e rela\347\365es,) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 617.89 Tm (facilitando travessias por redes conectadas [4].) Tj ET
+BT /F2 9.1 Tf 1 0 0 1 85.00 596.89 Tm (Cen\341rio | Categoria | Justificativa e limites) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 578.89 Tm (Solicita\347\365es, materiais e pontos com atributos variados | Documentos \(ex.: MongoDB\) | Uma) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 566.89 Tm (solicita\347\343o cont\351m itens, janela, estado e refer\352ncias. Materiais podem ter atributos) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 554.89 Tm (pr\363prios: risco e estado para eletr\364nicos; volume e recipiente para \363leo; tipo e peso para) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 542.89 Tm (papel. Esquema flex\355vel permite evoluir campos, com valida\347\343o dos obrigat\363rios. Refer\352ncias) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 530.89 Tm (evitam duplicar cadastro compartilhado. \315ndice geoespacial atende busca por proximidade.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 518.89 Tm (Transa\347\365es entre documentos exigem desenho expl\355cito.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 500.89 Tm (Eventos de coleta e hist\363rico de alto volume | Colunas \(ex.: Cassandra\) | Atende grava\347\365es) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 488.89 Tm (distribu\355das e consultas temporais conhecidas por regi\343o e per\355odo. Chave de parti\347\343o bem) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 476.89 Tm (distribu\355da evita parti\347\365es quentes; clustering ordena eventos. Limites: n\343o \351 relacional,) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 464.89 Tm (exige modelagem orientada \340s consultas e pode duplicar dados de forma controlada.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 446.89 Tm (Rela\347\365es entre geradores, materiais, cooperativas e destinos | Grafos \(ex.: Neo4j\) | N\363s) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 434.89 Tm (representam entidades e arestas datadas representam CONT\311M, ATENDEU, ENCAMINHOU e) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 422.89 Tm (LOCALIZADO_EM. Travessias facilitam caminhos de destina\347\343o e materiais coocorrentes. Em) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 410.89 Tm (relacional tamb\351m se pode modelar, mas caminhos vari\341veis tendem a exigir jun\347\365es sucessivas.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 398.89 Tm (Agrega\347\365es simples podem ser mais adequadas ao DW.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 380.89 Tm (Cache tempor\341rio opcional | Chave-valor | Pode acelerar estado ef\352mero com expira\347\343o. N\343o) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 368.89 Tm (deve ser fonte oficial de coleta ou destina\347\343o.) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 352.89 Tm (N\343o se escolhe uma categoria \372nica para todo o sistema. O documento \351 n\372cleo operacional; o) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 338.89 Tm (grafo \351 direcionado \340 an\341lise de rela\347\365es; colunas atendem ao fluxo de eventos. O cache) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 324.89 Tm (chave-valor \351 auxiliar.) Tj ET
+BT /F2 12 Tf 1 0 0 1 85.00 297.89 Tm (4 MODELO OPERACIONAL E EXEMPLO JSON) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 277.89 Tm (A solicita\347\343o re\372ne dados necess\341rios ao atendimento; cadastros compartilhados permanecem em) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 263.89 Tm (cole\347\365es pr\363prias. A localiza\347\343o precisa deve ficar restrita \340 equipe operacional, e o DW deve) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 249.89 Tm (preferir agrega\347\343o espacial:) Tj ET
+BT /F3 8.3 Tf 1 0 0 1 97.00 230.89 Tm ({) Tj ET
+BT /F3 8.3 Tf 1 0 0 1 97.00 219.89 Tm (  "solicitacao_id": "SOL-2026-000184",) Tj ET
+BT /F3 8.3 Tf 1 0 0 1 97.00 208.89 Tm (  "criada_em": "2026-04-12T14:30:00-03:00",) Tj ET
+BT /F3 8.3 Tf 1 0 0 1 97.00 197.89 Tm (  "status": "AGENDADA",) Tj ET
+BT /F3 8.3 Tf 1 0 0 1 97.00 186.89 Tm (  "gerador_ref": "GER-7f3a1",) Tj ET
+BT /F3 8.3 Tf 1 0 0 1 97.00 175.89 Tm (  "local_coleta": {"tipo": "Point", "coordinates": [-46.6333, -23.5505]},) Tj ET
+BT /F3 8.3 Tf 1 0 0 1 97.00 164.89 Tm (  "janela": {"inicio": "2026-04-15T08:00:00-03:00",) Tj ET
+BT /F3 8.3 Tf 1 0 0 1 97.00 153.89 Tm (             "fim": "2026-04-15T12:00:00-03:00"},) Tj ET
+BT /F3 8.3 Tf 1 0 0 1 97.00 142.89 Tm (  "itens": [) Tj ET
+BT /F3 8.3 Tf 1 0 0 1 97.00 131.89 Tm (    {"material_id": "ELETRONICO_PEQUENO", "qtd_estimada": 3, "unidade": "un"},) Tj ET
+BT /F3 8.3 Tf 1 0 0 1 97.00 120.89 Tm (    {"material_id": "CABO", "qtd_estimada": 2, "unidade": "kg"}) Tj ET
+BT /F3 8.3 Tf 1 0 0 1 97.00 109.89 Tm (  ],) Tj ET
+BT /F3 8.3 Tf 1 0 0 1 97.00 98.89 Tm (  "coletor_ref": "COL-021", "cooperativa_ref": "COOP-04",) Tj ET
+BT /F3 8.3 Tf 1 0 0 1 97.00 87.89 Tm (  "destino_previsto_ref": "DEST-09",) Tj ET
+BT /F1 8 Tf 1 0 0 1 514.28 24 Tm (4) Tj ET
+Q
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 5179 >>
+stream
+q
+BT /F3 8.3 Tf 1 0 0 1 97.00 779.89 Tm (  "campanha_id": "ELETRONICOS-2026", "versao_esquema": 1) Tj ET
+BT /F3 8.3 Tf 1 0 0 1 97.00 768.89 Tm (}) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 85.00 757.89 Tm (Coordenadas s\343o fict\355cias. Em produ\347\343o, validar latitude/longitude, aplicar \355ndice geoespacial) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 85.00 745.89 Tm (e limitar o acesso a endere\347os exatos. Estados poss\355veis precisam de regras de transi\347\343o e) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 85.00 733.89 Tm (hist\363rico audit\341vel.) Tj ET
+BT /F2 11 Tf 1 0 0 1 85.00 708.89 Tm (4.1 Grafo conceitual) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 115.00 691.89 Tm (\(Gerador\) -ABRIU-> \(Solicita\347\343o\) -CONT\311M-> \(Material\)) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 115.00 677.89 Tm (\(Coletor\) -ATENDEU-> \(Solicita\347\343o\) -DESTINADA_A-> \(Destino\)) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 115.00 663.89 Tm (\(Coletor\) -VINCULADO_A-> \(Cooperativa\) -ENCAMINHOU-> \(Destino\)) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 115.00 649.89 Tm (\(Ponto\) -LOCALIZADO_EM-> \(Regi\343o\)) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 635.89 Tm (Arestas podem guardar data, quantidade pesada, situa\347\343o de confirma\347\343o e identificador de) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 621.89 Tm (origem. Assim \351 poss\355vel rastrear por quais cooperativas um tipo de material chegou a) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 607.89 Tm (determinado destino.) Tj ET
+BT /F2 12 Tf 1 0 0 1 85.00 580.89 Tm (5 ESCALABILIDADE E TEOREMA CAP) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 560.89 Tm (Na campanha municipal, escalar horizontalmente servi\347os de API e consumidores de eventos,) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 546.89 Tm (distribuir requisi\347\365es por balanceador, desacoplar entrada e processamento por fila/stream,) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 532.89 Tm (aplicar rate limiting e idempot\352ncia e monitorar lat\352ncia, falhas, filas e atraso de) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 518.89 Tm (replica\347\343o. Testes de carga devem simular o pico previsto. An\341lises do DW n\343o devem competir) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 504.89 Tm (com grava\347\365es operacionais.) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 485.89 Tm (CAP descreve a escolha durante uma parti\347\343o de rede: o sistema n\343o garante simultaneamente) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 471.89 Tm (consist\352ncia forte e disponibilidade total em n\363s isolados. A decis\343o depende da opera\347\343o. Uma) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 457.89 Tm (solicita\347\343o pode ser recebida e reconciliada depois; uma reserva escassa deve aguardar) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 443.89 Tm (confirma\347\343o para evitar duplicidade.) Tj ET
+BT /F2 9.1 Tf 1 0 0 1 85.00 422.89 Tm (Opera\347\343o | Prioridade | Comportamento durante parti\347\343o) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 404.89 Tm (Receber solicita\347\343o | AP; consist\352ncia eventual | Aceitar em n\363 dispon\355vel com ID idempotente) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 392.89 Tm (e estado "recebida, aguardando confirma\347\343o". Ap\363s reconex\343o, deduplicar e reconciliar.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 380.89 Tm (Recebimento n\343o significa hor\341rio confirmado.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 362.89 Tm (Consultar orienta\347\365es/pontos p\372blicos | AP para leitura | Disponibilizar c\363pia replicada,) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 350.89 Tm (aceitando atraso. N\343o usar informa\347\343o possivelmente desatualizada para confirmar capacidade.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 332.89 Tm (Reservar equipe, ve\355culo ou vaga de destino | CP na confirma\347\343o | Sem qu\363rum/autoridade de) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 320.89 Tm (escrita, manter pendente ou recusar temporariamente. Evita alocar duas vezes o mesmo recurso.) Tj ET
+BT /F2 12 Tf 1 0 0 1 85.00 296.89 Tm (6 DATA WAREHOUSE E ETL) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 276.89 Tm (O DW fica separado do operacional. Gr\343o da Fato_Coleta: uma linha por material efetivamente) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 262.89 Tm (pesado em uma coleta conclu\355da. Uma solicita\347\343o com dois materiais pesados gera duas linhas;) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 248.89 Tm (peso estimado n\343o substitui peso real. Tentativas sem coleta podem ser registradas em fato) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 234.89 Tm (operacional distinto.) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 155.66 215.89 Tm (Dim_Tempo | Dim_Material | Dim_Localiza\347\343o | Dim_Gerador_Anon) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 176.61 201.89 Tm (Dim_Coletor/Cooperativa | Dim_Destino | Dim_Campanha) Tj ET
+BT /F2 10 Tf 1 0 0 1 295.19 187.89 Tm (?) Tj ET
+BT /F2 11 Tf 1 0 0 1 268.00 173.89 Tm (FATO_COLETA) Tj ET
+BT /F2 9.1 Tf 1 0 0 1 85.00 153.89 Tm (Tabela | Campos e m\351tricas) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 135.89 Tm (Fato_Coleta | Chaves para tempo, material, localiza\347\343o, gerador anonimizado,) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 123.89 Tm (coletor/cooperativa, destino e campanha. M\351tricas: peso_kg, volume_litros, unidades,) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 111.89 Tm (dist\342ncia_km, dura\347\343o_min, custo_estimado, quantidade_estimada e destina\347\343o_confirmada.) Tj ET
+BT /F1 8 Tf 1 0 0 1 514.28 24 Tm (5) Tj ET
+Q
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 5134 >>
+stream
+q
+BT /F1 9.1 Tf 1 0 0 1 93.00 777.89 Tm (Dim_Tempo | Data, dia, semana, m\352s, trimestre, ano, dia da semana, feriado e per\355odo de) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 765.89 Tm (campanha.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 747.89 Tm (Dim_Material | Categoria, tipo, classe de risco, unidade, recicl\341vel e instru\347\365es de) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 735.89 Tm (acondicionamento.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 717.89 Tm (Dim_Localiza\347\343o | Munic\355pio, regi\343o, bairro ou grade espacial agregada; evitar coordenada) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 705.89 Tm (residencial precisa.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 687.89 Tm (Dim_Gerador_Anon | Tipo amplo \(residencial, comercial, institucional\) e segmento necess\341rio.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 675.89 Tm (Excluir nome, telefone, documento e endere\347o detalhado.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 657.89 Tm (Dim_Coletor/Cooperativa, Dim_Destino, Dim_Campanha | Identifica\347\343o funcional e atributos) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 645.89 Tm (estritamente necess\341rios \340 an\341lise.) Tj ET
+BT /F2 11 Tf 1 0 0 1 85.00 621.89 Tm (6.1 Processo ETL) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 604.89 Tm (\225 Extra\347\343o: Coletar solicita\347\365es, estados, pesagens, materiais, cooperativas, coletores e) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 590.89 Tm (  comprovantes por eventos/CDC ou cargas incrementais. Guardar marca de processamento e) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 576.89 Tm (  origem.) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 559.89 Tm (\225 Transforma\347\343o: Validar estados, deduplicar por ID de evento, padronizar unidades, datas,) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 545.89 Tm (  materiais e regi\365es; distinguir estimativa de peso real; criar chaves substitutas;) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 531.89 Tm (  agregar localiza\347\343o e minimizar dados pessoais.) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 514.89 Tm (\225 Carga: Carregar staging, conferir contagens e somas, atualizar dimens\365es e fatos) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 500.89 Tm (  idempotentemente. Registrar rejei\347\365es, permitir reprocessamento sem duplicidade e) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 486.89 Tm (  monitorar atrasos e totais.) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 469.89 Tm (Indicadores: quilos de eletr\364nicos por m\352s e regi\343o; taxa de destina\347\343o confirmada;) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 455.89 Tm (cooperativas por categoria; capacidade necess\341ria para a pr\363xima campanha.) Tj ET
+BT /F2 12 Tf 1 0 0 1 85.00 428.89 Tm (7 PROPOSTAS DE MINERA\307\303O DE DADOS) Tj ET
+BT /F2 9.1 Tf 1 0 0 1 85.00 406.89 Tm (Objetivo | T\351cnica e aplica\347\343o) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 388.89 Tm (Descobrir materiais descartados juntos | Regras de associa\347\343o \(Apriori/FP-Growth\): cada) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 376.89 Tm (solicita\347\343o \351 uma cesta de categorias. Calcular suporte, confian\347a e lift. Ex.: pequenos) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 364.89 Tm (eletr\364nicos -> cabos. Usar para recipientes, triagem e log\355stica. Associa\347\343o indica) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 352.89 Tm (coocorr\352ncia, n\343o causa.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 334.89 Tm (Identificar regi\365es com perfis semelhantes | Clusteriza\347\343o: propor\347\365es de materiais, volume) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 322.89 Tm (agregado, sazonalidade, frequ\352ncia de coleta e taxa de destina\347\343o por regi\343o. Normalizar e) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 310.89 Tm (validar estabilidade/interpreta\347\343o. Usar para planejar pontos e campanhas sem estigmatizar) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 298.89 Tm (moradores.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 280.89 Tm (Prever volume de campanha | S\351ries temporais/regress\343o por regi\343o e material, usando) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 268.89 Tm (hist\363rico, calend\341rio e campanhas anteriores. Medir erro temporalmente e dimensionar equipes,) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 256.89 Tm (ve\355culos e cont\352ineres.) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 238.89 Tm (Detectar inconsist\352ncias | Regras/anomalias: peso acima da capacidade, comprovantes) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 226.89 Tm (duplicados, diverg\352ncia entre coletado e recebido ou trajetos imposs\355veis. Alertas exigem) Tj ET
+BT /F1 9.1 Tf 1 0 0 1 93.00 214.89 Tm (revis\343o humana; anomalia n\343o prova fraude.) Tj ET
+BT /F2 12 Tf 1 0 0 1 85.00 190.89 Tm (8 SEGURAN\307A E HARDENING) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 170.89 Tm (Quatro a\347\365es pr\341ticas para proteger a infraestrutura NoSQL e o DW contra acesso n\343o autorizado) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 156.89 Tm ([1]:) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 137.89 Tm (\225 Identidade e privil\351gio m\355nimo: MFA para administra\347\343o, autentica\347\343o forte, RBAC por) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 123.89 Tm (  fun\347\343o, contas de servi\347o separadas para API, ETL, an\341lise e DBA. Proibir contas) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 109.89 Tm (  compartilhadas; guardar segredos em cofre e rotacion\341-los.) Tj ET
+BT /F1 8 Tf 1 0 0 1 514.28 24 Tm (6) Tj ET
+Q
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 5728 >>
+stream
+q
+BT /F1 10 Tf 1 0 0 1 93.00 779.89 Tm (\225 Rede privada e criptografia: N\343o expor bancos publicamente; segmentar redes e permitir) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 765.89 Tm (  acesso s\363 de servi\347os autorizados/bastion. Usar TLS em tr\342nsito e criptografia em repouso) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 751.89 Tm (  com chaves gerenciadas.) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 734.89 Tm (\225 Auditoria e monitoramento: Registrar acessos privilegiados, exporta\347\365es, altera\347\365es de) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 720.89 Tm (  permiss\343o e falhas; centralizar logs com alertas para consultas massivas. N\343o colocar) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 706.89 Tm (  coordenadas, tokens ou dados pessoais desnecess\341rios nos logs.) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 689.89 Tm (\225 Hardening, atualiza\347\343o e recupera\347\343o: Desativar contas/servi\347os padr\343o e portas) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 675.89 Tm (  desnecess\341rias; aplicar atualiza\347\365es; revisar configura\347\343o. Backups criptografados e) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 661.89 Tm (  isolados, reten\347\343o definida e testes de restaura\347\343o; reaplicar exclus\365es ap\363s) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 647.89 Tm (  recupera\347\343o.) Tj ET
+BT /F2 12 Tf 1 0 0 1 85.00 622.89 Tm (9 LGPD E ELIMINA\307\303O) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 602.89 Tm (Receber o pedido com protocolo, confirmar identidade de forma proporcional e encaminhar ao) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 588.89 Tm (controlador/encarregado. Verificar escopo, base legal e hip\363teses de conserva\347\343o antes da) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 574.89 Tm (execu\347\343o; se houver obriga\347\343o de manter parte do registro, restringir acesso e uso ao) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 560.89 Tm (necess\341rio. A LGPD prev\352 direitos de elimina\347\343o em condi\347\365es e hip\363teses legais espec\355ficas) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 546.89 Tm ([5].) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 527.89 Tm (\225 Invent\341rio: Localizar identificador em bancos operacionais, r\351plicas, \355ndices, filas,) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 513.89 Tm (  cache, staging, DW e operadores envolvidos.) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 496.89 Tm (\225 Execu\347\343o operacional: Apagar ou anonimizar dados eleg\355veis e refer\352ncias associ\341veis no) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 482.89 Tm (  grafo; propagar ordem a r\351plicas, caches e cargas pendentes. Documentar reten\347\365es) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 468.89 Tm (  obrigat\363rias separadamente.) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 451.89 Tm (\225 DW e estat\355sticas: Fatos individuais ligados por chave, pseud\364nimo ou cruzamento ainda) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 437.89 Tm (  podem ser pessoais; eliminar ou reprocessar conforme decis\343o documentada. Recalcular) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 423.89 Tm (  agregados por per\355odo, material e regi\343o ampla, sem endere\347o ou chave de pessoa.) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 406.89 Tm (\225 Teste de anonimiza\347\343o: Suprimir c\351lulas pequenas e combina\347\365es raras. Pseudonimiza\347\343o n\343o) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 392.89 Tm (  \351 anonimiza\347\343o se a pessoa puder ser religada ao registro. Se houver risco razo\341vel de) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 378.89 Tm (  reidentifica\347\343o, remover ou transformar novamente.) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 361.89 Tm (\225 Backups e resposta: Expirar c\363pias segundo pol\355tica, restringir acesso e reaplicar lista) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 347.89 Tm (  de exclus\343o ap\363s restaura\347\343o. Registrar a conclus\343o sem guardar c\363pia do conte\372do) Tj ET
+BT /F1 10 Tf 1 0 0 1 93.00 333.89 Tm (  exclu\355do e responder nos procedimentos aplic\341veis.) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 316.89 Tm (A s\351rie hist\363rica de coletas s\363 permanece quando o agregado \351 realmente n\343o identific\341vel e o) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 302.89 Tm (tratamento tem fundamento documentado. A decis\343o sobre exce\347\365es e reten\347\343o deve ser validada) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 288.89 Tm (pelo encarregado e, quando necess\341rio, pelo jur\355dico [1].) Tj ET
+BT /F2 12 Tf 1 0 0 1 85.00 261.89 Tm (10 CONCLUS\303O) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 241.89 Tm (Documentos atendem \340s solicita\347\365es e materiais com atributos variados; colunas distribuem) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 227.89 Tm (eventos temporais em alto volume; grafos permitem percorrer rela\347\365es de destina\347\343o e) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 213.89 Tm (coocorr\352ncia. A disponibilidade \351 priorizada para receber solicita\347\365es e consultar c\363pias) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 199.89 Tm (p\372blicas, enquanto a confirma\347\343o de capacidade escassa aguarda consist\352ncia. O esquema estrela) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 185.89 Tm (organiza coletas por material, data, regi\343o, operador, destino e campanha; ETL idempotente) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 171.89 Tm (preserva os indicadores.) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 109.00 152.89 Tm (Regras de associa\347\343o, clusteriza\347\343o, s\351ries temporais e detec\347\343o de anomalias atendem aos) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 138.89 Tm (objetivos do print com cautela de privacidade e revis\343o humana. Privil\351gio m\355nimo, rede) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 124.89 Tm (privada, criptografia, auditoria e recupera\347\343o testada reduzem riscos; o procedimento LGPD) Tj ET
+BT /F1 10.3 Tf 1 0 0 1 85.00 110.89 Tm (distingue dado pseudonimizado de agregado efetivamente n\343o identific\341vel.) Tj ET
+BT /F1 8 Tf 1 0 0 1 514.28 24 Tm (7) Tj ET
+Q
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 2328 >>
+stream
+q
+BT /F2 12 Tf 1 0 0 1 85.00 771.89 Tm (REFER\312NCIAS) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 99.00 751.89 Tm (ABNT. ABNT NBR 14724: informa\347\343o e documenta\347\343o - trabalhos acad\352micos - apresenta\347\343o. Rio de) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 85.00 738.89 Tm (Janeiro: ABNT, 2024.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 99.00 720.89 Tm (ABNT. ABNT NBR 6023: informa\347\343o e documenta\347\343o - refer\352ncias - elabora\347\343o. Rio de Janeiro:) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 85.00 707.89 Tm (ABNT, 2018.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 99.00 689.89 Tm (ABNT. ABNT NBR 10520: informa\347\343o e documenta\347\343o - cita\347\365es em documentos - apresenta\347\343o. Rio) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 85.00 676.89 Tm (de Janeiro: ABNT, 2023.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 99.00 658.89 Tm (BRASIL. Lei n\272 13.709, de 14 de agosto de 2018. Lei Geral de Prote\347\343o de Dados Pessoais.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 85.00 645.89 Tm (Bras\355lia, DF: Presid\352ncia da Rep\372blica, 2018. Dispon\355vel em:) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 85.00 632.89 Tm (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm. Acesso em: 26 nov.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 85.00 619.89 Tm (2026.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 99.00 601.89 Tm (ELME, Vander Ribeiro. Banco de Dados N\343o Relacional: atividade, vers\343o 1.3. [S. l.]: material) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 85.00 588.89 Tm (did\341tico, [s. d.]. PDF, p. 192-197.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 99.00 570.89 Tm (MONGODB. Data modeling. MongoDB Manual. Dispon\355vel em:) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 85.00 557.89 Tm (https://www.mongodb.com/docs/v7.0/data-modeling/. Acesso em: 26 nov. 2026.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 99.00 539.89 Tm (NEO4J. The Neo4j graph database. Neo4j Manual. Dispon\355vel em:) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 85.00 526.89 Tm (https://neo4j.com/docs/2.3.8/graphdb-neo4j.html. Acesso em: 26 nov. 2026.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 99.00 508.89 Tm (APACHE SOFTWARE FOUNDATION. Introduction to data modeling. Apache Cassandra Documentation.) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 85.00 495.89 Tm (Dispon\355vel em:) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 85.00 482.89 Tm (https://cassandra.apache.org/doc/latest/cassandra/developing/data-modeling/intro.html. Acesso) Tj ET
+BT /F1 9.2 Tf 1 0 0 1 85.00 469.89 Tm (em: 26 nov. 2026.) Tj ET
+BT /F1 8 Tf 1 0 0 1 514.28 24 Tm (8) Tj ET
+Q
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 20 0 R >>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000169 00000 n 
+0000000266 00000 n 
+0000000368 00000 n 
+0000000463 00000 n 
+0000001252 00000 n 
+0000001404 00000 n 
+0000002602 00000 n 
+0000002754 00000 n 
+0000007601 00000 n 
+0000007755 00000 n 
+0000013810 00000 n 
+0000013964 00000 n 
+0000019196 00000 n 
+0000019350 00000 n 
+0000024537 00000 n 
+0000024691 00000 n 
+0000030472 00000 n 
+0000030626 00000 n 
+0000033007 00000 n 
+trailer
+<< /Size 22 /Root 1 0 R >>
+startxref
+33161
+%%EOF
